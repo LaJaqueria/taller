@@ -7,6 +7,8 @@ Y así escribo *texto en cursiva*
 
 ## Título h2
 
+## escribir una línea para ver qué pasa
+
 ### Título h3
 
 Así incluimos una imagen:
